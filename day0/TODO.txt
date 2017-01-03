@@ -1,0 +1,34 @@
+START TIME 4:36
+Location: Starbucks, SF
+END TIME 5.36
+
+An interactive checklist or 100 days for code
+
+User stories:
+
+Running this app walks them through the requirements for 100 days of code.
+
+1/3/2017
+------------------------------
+[x] Send an SMS reminder via Gmail to phone@text.att.net (my phone carrier)
+reminder.py
+[x] This app can get us in the mindset by playing a sound file we want to play. - Bach Cello for example.
+cello.py
+------------------------------
+
+
+[ ] It can record feedback pre, post, and during the pomodoros.
+[ ] It can start the pomodoro Timer
+[ ] It can walk you through a checklist to prepare for GIT upload
+[ ] Good for a very beginner programmer
+[ ] Play a 25-minute long soundtrack
+
+
+
+
+Details:
+
+Searching ( google.com / stackoverflow.com )
+Coding (sublimetext2, vim, Terminal App (Mac OSX), Python 2.7.12, git)
+OS (Mac OS X 10.11.5)
+Music(https://costanzabach.stanford.edu/)
