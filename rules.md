@@ -4,8 +4,11 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+January 3rd, 2017.
 
+## My Progress:
+
+[ ] Date of last tweet with #100DaysofCode (1/03/2017) <- change daily
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.
