@@ -24,3 +24,9 @@ Using PyCharm - it's easy to browse Python Libraries.
 
 
 **Link(s) to work**: [Day 1](https://github.com/ideabrian/100-days-of-code/tree/master/day1)
+
+### Day 2: January 5, 2017
+##### Following CPython Walk with Philip Guo
+
+**Today's Progress**:
+Reading deeper into Python internals.
